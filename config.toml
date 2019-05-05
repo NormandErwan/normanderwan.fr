@@ -11,7 +11,6 @@ theme = "startbootstrap-clean-blog"
   DateForm = "Mon 2 Jan 2006"
   Description = "Software Engineer in Augmented Reality at Inria Bordeaux"
   Author = "Erwan Normand"
-  email = "normand.erwan@protonmail.com" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 6 #Number of post summaries to show on front page, comment out to allow default(4)
   showReadTime = true #set to false to exclude read time from header of post
   

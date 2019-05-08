@@ -4,28 +4,29 @@ languageCode = "en-us"
 title = "Erwan Normand"
 theme = "startbootstrap-clean-blog"
 
-[author]
-  name = "Erwan Normand"
-
 [params]
   DateForm = "Mon 2 Jan 2006"
   Description = "Software Engineer in Augmented Reality at Inria Bordeaux"
   Author = "Erwan Normand"
-  postSummariesFrontPage = 6 #Number of post summaries to show on front page, comment out to allow default(4)
-  showReadTime = true #set to false to exclude read time from header of post
+  postSummariesFrontPage = 8 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = false #set to false to exclude read time from header of post
   
-[[params.social]]
-  title = "linkedin"
-  url = "https://www.linkedin.com/in/normanderwan"
-[[params.social]]
-  title = "github"
-  url = "https://github.com/normanderwan"
+  [[params.social]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/normanderwan"
+  [[params.social]]
+    title = "github"
+    url = "https://github.com/normanderwan"
 
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = -200
-[[menu.main]]
-  name = "Archives"
-  url = "/posts/"
-  weight = -180
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = -100
+  [[menu.main]]
+    name = "Making Games"
+    url = "/categories/making-games/"
+    weight = 10
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 0

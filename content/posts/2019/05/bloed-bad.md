@@ -27,8 +27,8 @@ with its health for better weapons or to open doors. But as you're bleeding, tim
 enemies or sacrifice prisoners to get their blood and gain more health. Multiples runs will be necessary to finish the
 dungeon.
 
-I used to work alone on software. I try my best design good architecture and writing elegant code. Therefore, this was a
-very good exercise for me working together quick and dirty.
+I used to work alone on software. I usually try my best design good architecture and writing elegant code.
+Therefore, this was a very good exercise for me working together on a quick propotype.
 
 Team was:
 
@@ -40,7 +40,7 @@ Team was:
 
 ![Bloed Bad Demo 1](/img/2019/05/bloed-bad-1.gif)
 
-*A demon asks some blood to open the dungeon's door.*
+*A demon asks for some blood to open the dungeon's door.*
 
 ![Bloed Bad Demo 2](/img/2019/05/bloed-bad-2.gif)
 

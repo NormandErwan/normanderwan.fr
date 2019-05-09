@@ -15,7 +15,7 @@ summary: "I participated in my first game jam, I'm quite proudly surprised of ou
 I participated in my first game jam with the [Ludum Dare 44](https://ldjam.com/events/ludum-dare/44). I enjoyed the
 process and I'm quite proudly surprised of our result!
 
-You can [play it online](https://solroo.itch.io/bloedbad) and [view the submission](https://ldjam.com/events/ludum-dare/44/bloedbad).
+You can [play it online](https://solroo.itch.io/bloedbad), [view the submission](https://ldjam.com/events/ludum-dare/44/bloedbad) and [get the source code](https://github.com/Titwin/LD44).
 
 Now I have a job, I can look back over my study years. I remember I was playing a lot to video games when I was young
 while dreaming of working at Ubisoft Montréal. But I haven't created any game yet. Some members of

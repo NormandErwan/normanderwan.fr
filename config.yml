@@ -2,6 +2,8 @@ baseURL: "https://normanderwan.fr"
 copyright: "Erwan Normand. Non-code content is licensed under CC-BY, code content is licensed under the MIT license."
 languageCode: "en-us"
 params:
+  customCSS:
+    - /css/normanderwan.fr.css
   DateForm: "Mon 2 Jan 2006"
   Description: "Software Engineer in Augmented Reality at Inria Bordeaux"
   Author: "Erwan Normand"

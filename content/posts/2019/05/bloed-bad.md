@@ -17,15 +17,13 @@ process and I'm quite proudly surprised of our result!
 
 You can [play it online](https://solroo.itch.io/bloedbad), [view the submission](https://ldjam.com/events/ludum-dare/44/bloedbad) and [get the source code](https://github.com/Titwin/LD44).
 
-Now I have a job, I can look back over my study years. I remember I was playing a lot to video games when I was young
-while dreaming of working at Ubisoft Montréal. But I haven't created any game yet. Some members of
-[team at Inria](https://team.inria.fr/potioc) really like making games during these kind of events. So when they
-proposed me to try the next game jam with them, I was in!
+I remember I was playing a lot to video games when I was young while dreaming of working at Ubisoft Montréal.
+But I haven't created any game yet. Some members of my [team at Inria](https://team.inria.fr/potioc) really like making games during these kind of events. So when they proposed me to try the next game jam with them, I was in!
 
-This game jam's theme was "Your life is a currency". We did a retro metroidvania where you're a demon that can/must pay
-with its health for better weapons or to open doors. But as you're bleeding, time is running against you. You can kill
-enemies or sacrifice prisoners to get their blood and gain more health. Multiples runs will be necessary to finish the
-dungeon.
+The theme was "Your life is a currency". We did a retro metroidvania where you're a demon that pay
+with its health for better weapons or to open doors. But as you're bleeding, time is running against you. You can also
+kill enemies or sacrifice prisoners to get their blood and gain more health. Multiples runs will be necessary to
+complete the dungeon.
 
 I used to work alone on software. I usually try my best design good architecture and writing elegant code.
 Therefore, this was a very good exercise for me working together on a quick propotype.
@@ -38,14 +36,6 @@ Team was:
 - [Joan Sol Roo](https://joansolroo.com): design, art and implementation.
 - Erwan Normand: design, implementation and added musics and sounds (bought with the Humble "8 bit pixel game dev" Bundle).
 
-![Bloed Bad Demo 1](/img/2019/05/bloed-bad-1.gif)
-
-*A demon asks for some blood to open the dungeon's door.*
-
-![Bloed Bad Demo 2](/img/2019/05/bloed-bad-2.gif)
-
-*You're in hell.*
-
-![Bloed Bad Demo 3](/img/2019/05/bloed-bad-3.gif)
-
-*A classic metroidvania gameplay.*
+{{< figure src="/img/2019/05/bloed-bad-1.gif" title="A demon asks for some blood to open the dungeon's door." >}}
+{{< figure src="/img/2019/05/bloed-bad-2.gif" title="You're in hell." >}}
+{{< figure src="/img/2019/05/bloed-bad-3.gif" title="A classic metroidvania gameplay." >}}

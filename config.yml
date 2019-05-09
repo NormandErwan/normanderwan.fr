@@ -1,0 +1,30 @@
+baseURL: "https://normanderwan.fr"
+copyright: "Erwan Normand. Non-code content is licensed under CC-BY, code content is licensed under the MIT license."
+languageCode: "en-us"
+params:
+  DateForm: "Mon 2 Jan 2006"
+  Description: "Software Engineer in Augmented Reality at Inria Bordeaux"
+  Author: "Erwan Normand"
+  postSummariesFrontPage: 8
+  showReadTime: false
+  social:
+    - title: "github"
+      url: "https://github.com/normanderwan"
+    - title: "linkedin"
+      url: "https://www.linkedin.com/in/normanderwan"
+    - title: "twitter"
+      url: "https://twitter.com/NormandErwan"
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "Making Games"
+      url: "/categories/making-games/"
+      weight: 20
+    - name: "About"
+      url: "/about/"
+      weight: 30
+theme: "startbootstrap-clean-blog"
+title: "Erwan Normand"
+summaryLength: 10

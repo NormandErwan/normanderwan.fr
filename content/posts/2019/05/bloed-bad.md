@@ -15,10 +15,13 @@ summary: "I participated in my first game jam, I'm quite proudly surprised of ou
 I participated in my first game jam with the [Ludum Dare 44](https://ldjam.com/events/ludum-dare/44). I enjoyed the
 process and I'm quite proudly surprised of our result!
 
-You can [play it online](https://solroo.itch.io/bloedbad), [view the submission](https://ldjam.com/events/ludum-dare/44/bloedbad) and [get the source code](https://github.com/Titwin/LD44).
+You can [play it online](https://solroo.itch.io/bloedbad),
+[view the submission](https://ldjam.com/events/ludum-dare/44/bloedbad)
+and [get the source code](https://github.com/Titwin/LD44).
 
 I remember I was playing a lot to video games when I was young while dreaming of working at Ubisoft Montréal.
-But I haven't created any game yet. Some members of my [team at Inria](https://team.inria.fr/potioc) really like making games during these kind of events. So when they proposed me to try the next game jam with them, I was in!
+But I haven't created any game yet. Some members of my [team at Inria](https://team.inria.fr/potioc) really like making
+games during these kind of events. So when they proposed me to try the next game jam with them, I was in!
 
 The theme was "Your life is a currency". We did a retro metroidvania where you're a demon that pay
 with its health for better weapons or to open doors. But as you're bleeding, time is running against you. You can also
@@ -39,3 +42,14 @@ Team was:
 {{< figure src="/img/2019/05/bloed-bad-1.gif" title="A demon asks for some blood to open the dungeon's door." >}}
 {{< figure src="/img/2019/05/bloed-bad-2.gif" title="You're in hell." >}}
 {{< figure src="/img/2019/05/bloed-bad-3.gif" title="A classic metroidvania gameplay." >}}
+
+Hope you will enjoy it: <https://solroo.itch.io/bloedbad> !
+
+**Edit 2019-06-17:**
+The Ludum Dare results are in for a couple of weeks now. We received so great comments! Reviews are very positive too:
+our game is on the top 3-8% for most score. Only the innovation score is below (top 20%) but that's okay: we wanted to
+make a game with a classic gameplay.
+
+Thanks to the whole team!
+
+{{< figure src="/img/2019/05/bloed-bad-results.gif" title="Bloed Bad's final results." >}}

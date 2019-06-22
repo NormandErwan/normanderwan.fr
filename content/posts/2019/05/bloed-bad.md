@@ -33,7 +33,7 @@ Therefore, this was a very good exercise for me working together on a quick prop
 
 Team was:
 
-- [Pierre-Antoine Cinquin](https://twitter.com/pacinquin): art.
+- [Pierre-Antoine Cinquin](https://pacinquin.github.io): art.
 - Anna Loeff: art.
 - [Thibault Lainé](https://www.linkedin.com/in/thibault-laine-b811542a/): design, implementation, level design.
 - [Joan Sol Roo](https://joansolroo.com): design, art and implementation.

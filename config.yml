@@ -1,32 +1,18 @@
-baseURL: "https://normanderwan.fr"
-copyright: "Erwan Normand. Non-code content is licensed under CC-BY, code content is licensed under the MIT license."
-languageCode: "en-us"
+baseURL: https://normanderwan.fr
+copyright: Erwan Normand. Non-code content is licensed under CC-BY, code content is licensed under the MIT license.
+languageCode: fr
 params:
-  customCSS:
-    - /css/normanderwan.fr.css
-  DateForm: "Mon 2 Jan 2006"
-  Description: "Software Engineer in Augmented Reality at Inria Bordeaux"
-  Author: "Erwan Normand"
-  postSummariesFrontPage: 8
-  showReadTime: false
-  social:
-    - title: "github"
-      url: "https://github.com/normanderwan"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/normanderwan"
-    - title: "twitter"
-      url: "https://twitter.com/NormandErwan"
+  author: Erwan Normand
+  datetimeFormat: 02 Jan 2006
+  description: Software Engineer in Augmented Reality at Inria Bordeaux
+permalinks:
+  posts: /:year/:month/:title/
 menu:
   main:
-    - name: "Home"
-      url: "/"
-      weight: 10
-    - name: "Projects"
-      url: "/categories/projects/"
-      weight: 20
-    - name: "About"
-      url: "/about/"
-      weight: 30
-theme: "startbootstrap-clean-blog"
-title: "Erwan Normand"
-summaryLength: 10
+    - name: About
+      url: /about
+    - name: Posts
+      url: /posts
+theme: blogpaper
+title: Erwan Normand
+summaryLength: 100

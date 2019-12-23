@@ -5,7 +5,7 @@
 ## Install
 
 - Install [Git](https://git-scm.com/).
-- Install [Hugo](https://gohugo.io/getting-started/installing/).
+- Install [Hugo extended](https://gohugo.io/getting-started/installing/).
 - Clone the repository: `git clone --recurse-submodules -j8 git@github.com:NormandErwan/normanderwan.fr.git`
 - Add content:
     - Add blog post to `content/posts/YYYY/MM/post-title.md`, replacing YYYY and MM with current year and month.

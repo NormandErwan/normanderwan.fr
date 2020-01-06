@@ -1,15 +1,13 @@
 ---
 title: "Ludum Dare 44: Bloed Bad"
-date: 2019-05-04
-image: "/img/2019/05/bloed-bad.png"
+date: 2019-12-04
 categories:
-- Projects
+  - Projects
 tags:
-- Unity
-- Ludum Dare
-- Game Jam
-draft: false
-summary: "I participated in my first game jam, I'm quite proudly surprised of our result!"
+  - Unity
+  - Ludum Dare
+  - Game Jam
+subtitle: I participated in my first game jam, I'm quite proudly surprised of our result!
 ---
 
 I participated in my first game jam with the [Ludum Dare 44](https://ldjam.com/events/ludum-dare/44). I enjoyed the
@@ -39,9 +37,9 @@ Team was:
 - [Joan Sol Roo](https://joansolroo.com): design, art and implementation.
 - Erwan Normand: design, implementation and added musics and sounds (bought with the Humble "8 bit pixel game dev" Bundle).
 
-{{< figure src="/img/2019/05/bloed-bad-1.gif" title="A demon asks for some blood to open the dungeon's door." >}}
-{{< figure src="/img/2019/05/bloed-bad-2.gif" title="You're in hell." >}}
-{{< figure src="/img/2019/05/bloed-bad-3.gif" title="A classic metroidvania gameplay." >}}
+{{< figure src="bloed-bad-1.gif" caption="A demon asks for some blood to open the dungeon's door." >}}
+{{< figure src="bloed-bad-2.gif" caption="You're in hell." >}}
+{{< figure src="bloed-bad-3.gif" caption="A classic metroidvania gameplay." class="full-width" >}}
 
 Hope you will enjoy it: <https://solroo.itch.io/bloedbad> !
 
@@ -52,4 +50,4 @@ make a game with a classic gameplay.
 
 Thanks to the whole team!
 
-{{< figure src="/img/2019/05/bloed-bad-results.gif" title="Bloed Bad's final results." >}}
+{{< figure src="bloed-bad-results.gif" caption="Bloed Bad's final results." >}}

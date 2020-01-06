@@ -1,18 +1,18 @@
+author:
+  name: Erwan Normand
 baseURL: https://normanderwan.fr
 copyright: Erwan Normand. Non-code content is licensed under CC-BY, code content is licensed under the MIT license.
 languageCode: fr
 params:
-  author: Erwan Normand
   datetimeFormat: 02 Jan 2006
   description: Software Engineer in Augmented Reality at Inria Bordeaux
+  subtitleLength: 0
 permalinks:
   posts: /:year/:month/:title/
 menu:
   main:
     - name: About
       url: /about
-    - name: Posts
-      url: /posts
-theme: blogpaper
+theme: Blogpaper
 title: Erwan Normand
 summaryLength: 100
